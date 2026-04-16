@@ -1,5 +1,5 @@
-!pip install -q docling pytesseract sentence-transformers faiss-cpu
-!sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-por tesseract-ocr-eng
+# !pip install -q docling pytesseract sentence-transformers faiss-cpu
+# !sudo apt-get install -y -qq tesseract-ocr tesseract-ocr-por tesseract-ocr-eng
 
 import os
 import torch
